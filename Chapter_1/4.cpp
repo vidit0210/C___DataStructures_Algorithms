@@ -1,4 +1,4 @@
-\// Enum.cbp
+// Enum.cbp
 #include <iostream>
 #include <cstdlib>
 #include <ctime>

@@ -51,16 +51,4 @@ int main()
     // we need to move it back
     ptr = ptr - 5;
 
-    // Display each element value
-    // by accessing pointer index (ptr[])
-    cout << "Using pointer index" << endl;
-    cout << "Value\tAddress" << endl;
-    for(int i = 0; i < arrLength; ++i)
-    {
-        cout <<ptr[i] << "\t";
-        cout << &ptr[i] << endl;
-    }
-
-
-    return 0;
 }
